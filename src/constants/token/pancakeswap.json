@@ -1,9 +1,9 @@
 {
   "name": "Mozart Finance Default List",
-  "timestamp": "2021-03-17T09:56:23Z",
+  "timestamp": "2021-04-01T09:56:23Z",
   "version": {
-    "major": 2,
-    "minor": 5,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
