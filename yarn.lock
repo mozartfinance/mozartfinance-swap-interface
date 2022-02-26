@@ -2061,6 +2061,17 @@
   dependencies:
     "@json-rpc-tools/types" "^1.5.7"
 
+"@mozartfinance/uikit@^0.2.3":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@mozartfinance/uikit/-/uikit-0.2.4.tgz#02da4f0834d50dd02e28623e5d077f36921f5718"
+  integrity sha512-AjDOOlsSDE9U/5KdKpF/Cjm5zAka1zBxF45FPvYNa2KDdBdc11xbID0oruirSGnzjUXlslCXsl48RyzZxauVRw==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 "@multiformats/base-x@^4.0.1":
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/@multiformats/base-x/-/base-x-4.0.1.tgz#95ff0fa58711789d53aefb2590a8b7a4e715d121"
@@ -2121,17 +2132,6 @@
     tiny-invariant "^1.1.0"
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
-
-"@pancakeswap-libs/uikit@^0.14.1":
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-0.14.1.tgz#8e42b80678da85d74d9075d49f617ed9171aaff6"
-  integrity sha512-PknRl6qIXSCPPCTseTCEnzaXuW8dowAGUbus500IEZMOtl+hZu+D0g8s0tG6DRcwEIWF1RLmYIWJjuJHiKv8IQ==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
 
 "@pedrouid/iso-crypto@^1.0.0":
   version "1.0.0"
@@ -4588,9 +4588,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001173:
-  version "1.0.30001178"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001178.tgz#3ad813b2b2c7d585b0be0a2440e1e233c6eabdbc"
-  integrity sha512-VtdZLC0vsXykKni8Uztx45xynytOi71Ufx9T8kHptSw9AL4dpqailUJJHavttuzUe1KYuBYtChiWv+BAb7mPmQ==
+  version "1.0.30001312"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001312.tgz"
+  integrity sha512-Wiz1Psk2MEK0pX3rUzWaunLTZzqS2JYZFzNKqAiJGiuxIjRPLgV6+VDPOg6lQOUxmDwhTlh198JsTTi8Hzw6aQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
