@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://mozartfinance.io/',
+    href: 'https://ezik.com/',
   },
   {
     label: 'Trade',
@@ -34,24 +34,21 @@ const config: MenuEntry[] = [
     label: 'More',
     icon: 'MoreIcon',
     items: [
-      {
-        label: 'Github',
-        href: 'https://github.com/mozartfinance',
-      },
+     
       {
         label: 'Docs',
-        href: 'https://mozartfinance.gitbook.io/mozart-finance/',
+        href: 'https://ezik.gitbook.io/mozart-finance/',
       },
       {
         label: 'Blog',
-        href: 'https://mozart-finance.medium.com/',
+        href: 'https://blog.ezik.com/',
       },
     ],
   },
   {
     label: 'Audit by IB',
     icon: 'TicketIcon',
-    href: 'https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/blob/main/Mozart%20Finance/Mozart%20Finance%20(PIANO)%20-%20Final%20Audit%20Report.pdf',
+    href: '',
   },
 ]
 
